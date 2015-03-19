@@ -1,5 +1,5 @@
 ### application.bat - 201x - ChatagnierDylanBretonMathieu
 
-version = "1.2"
+version = "2.0.0"
 
 echo "version ${version}"
